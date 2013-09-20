@@ -1,0 +1,15 @@
+19:21:22 - !! Missing server jar file. Aborting !!
+19:24:50 - !! client already decompiled. Run cleanup before decompiling again !!
+21:46:19 - '"C:\Program Files\Java\jdk1.7.0_40\bin\javac" -Xlint:-options -deprecation -g -source 1.6 -target 1....' failed : 1
+21:46:19 - 
+21:46:19 - == ERRORS FOUND ==
+21:46:19 - 
+21:46:19 - src\minecraft\net\minecraft\src\Block.java:464: error: possible loss of precision
+21:46:19 -         	return 1000F;
+21:46:19 -         	       ^
+21:46:19 - 
+21:46:19 -   required: int
+21:46:19 -   found:    float
+21:46:19 - 1 error
+21:46:19 - ==================
+21:46:19 - 

@@ -1,0 +1,8 @@
+package net.minecraft.src;
+
+public class Variables {
+
+	public static boolean jadeVision = false;
+	public static boolean hackJump = false;
+	
+}
